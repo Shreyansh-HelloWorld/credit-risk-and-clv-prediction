@@ -28,7 +28,7 @@ This project demonstrates an end-to-end data science workflow to build a framewo
 ## Dashboard Preview
 Here is a screenshot of the final interactive dashboard built in Power BI.
 
-![Dashboard Screenshot](dashboard_exports/dashboard_screenshot.png)
+![Dashboard Screenshot](credit-risk-and-clv-prediction/dashboard_exports/dashboard_screenshot.png)
 
 ## How to Run
 1.  Clone or download this repository.
